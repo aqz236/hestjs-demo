@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhestjs_docs=self.webpackChunkhestjs_docs||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/hestjs-demo/zh-CN/blog","blogTitle":"Blog","authorsListPath":"/hestjs-demo/zh-CN/blog/authors"}')}}]);

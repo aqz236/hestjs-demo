@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhestjs_docs=self.webpackChunkhestjs_docs||[]).push([[8489],{8353:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/hestjs-demo/zh-CN/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
